@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_timestamp"
+        android:orderInCategory="120"
+        android:showAsAction="never"
+        android:title="@string/action_timestamp"/>
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="125"
+        android:showAsAction="never"
+        android:title="@string/action_save"/>
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="130"
+        android:showAsAction="never"
+        android:title="@string/action_help"/>
+</menu>

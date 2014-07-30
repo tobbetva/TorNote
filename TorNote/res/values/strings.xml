@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TorNote</string>
+    <string name="action_timestamp">Insert timestamp</string>
+    <string name="action_save">Save</string>
+    <string name="action_help">Help</string>        
+
+</resources>
